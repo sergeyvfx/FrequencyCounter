@@ -1,0 +1,12 @@
+Desired specifications, optimistic:
+
+- 0Hz to 200MHz
+- 0.4v to 5.0v Vpp
+- resolution?
+- Auto-ranging
+- Configurable gate time
+- Statistics (min/max frequency, mean, deviation)
+- Configurable HighZ / 50Ohm impedance input
+- USB interface for communication
+- Preserve settings when power off
+- 

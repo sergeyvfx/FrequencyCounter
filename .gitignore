@@ -1,0 +1,3 @@
+*.[sb]#[0-9]
+/Firmware/FrequencyCounter.X/build/default/
+/Firmware/FrequencyCounter.X/dist/default/
